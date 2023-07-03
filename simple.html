@@ -7,6 +7,6 @@ header("Content-Type: image/png");
 $url = 'https://user-images.githubusercontent.com/138405852/250423953-62dae8e1-cf74-4c84-a3db-d0871f4d5445.png';
 $image = base64_encode(file_get_contents($url));
 
-<img src="data:image/x-icon;base64,<?= $image
+<img src="data:image/x-icon;base64,<?= $image>
 
 ?>
