@@ -1,4 +1,2 @@
 # test site
-This is just a website to test code for Paw Adopts :D
-<a href="simple.html">Simple.html</a>
-<a href="simpletest.html">Simpletest.html</a>
+This is just a website to test code :D
